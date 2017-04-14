@@ -6,3 +6,4 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 13/04/2017 - 23:41
 -> IMPLEMENTAÇÃO DA AULA 4 ( OLA MUNDO )
 -> AULA 5 CONCLUIDA, Todos os arquivos utilizados no projeto foram baixados e já foram feitos os ajustes da aula 05.
+-> AULA 06 - Parágrafos, Quebras e Símbolos Especiais - 
