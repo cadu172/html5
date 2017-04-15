@@ -2,8 +2,40 @@ URL PARA ACESSO AO CURSO:
 
 https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 
-
 13/04/2017 - 23:41
+
 -> IMPLEMENTAÇÃO DA AULA 4 ( OLA MUNDO )
+
 -> AULA 5 CONCLUIDA, Todos os arquivos utilizados no projeto foram baixados e já foram feitos os ajustes da aula 05.
+
 -> AULA 06 - Parágrafos, Quebras e Símbolos Especiais - 
+
+-> AULA 07 - Formatação de Texto com HTML5 e CSS3:
+	foi explicado como formatar o texto usando o CSS, a formatação existente no HTML será descontinuada e funcionara apenas a parte semantica, toda a formatação sera no CSS3
+
+- AULA 08 - Códigos de Cores em HTML5 e CSS3:
+	foi explicado como alterar as cores da página, plano de fundo e das fontes
+
+- AULA 09 - Imagens em HTML5:
+	foi explicado como trabalhar com imagens de forma semantica utilizando as tags 
+	<FIGURE> - usada para agrupar as imagens de forma semantica
+	<FIGCAPTION> - inclui uma legenda na foto (tag usada por leitores de tela para inclusao de deficientes visuais)
+
+- AULA 10 - Formatação de Imagens com CSS3:
+	Foi explicado como formatar as imagens, colocando bordas, transição etc...
+
+- AULA 11 - Listas em HTML5 com OL e UL:
+	foi explicado com implementar listas ordenadas <OL> e listas não-ordenadas <UL>
+
+- AULA 12 - Links em HTML5:
+	foi explicado como colocar um link no documento, como abrir uma outra pagina do site ou externa
+	dentro da mesma janela ou em uma nova janela.
+
+- AULA 13 - Menu com CSS3	
+	como transformar o menu criado na aula 12 no menu do topo do site, um menu flutuante
+
+- AULA 14 - Efeitos visuais em CSS3	
+	http://expressprefixr.herokuapp.com/    SITE PARA CORREÇÃO DO CSS E RETROCOMPATIBILIDADE
+	formatação do menu e transicao, formatação do link
+
+- AULA 15 - parei nesta aula	

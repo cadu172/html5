@@ -1,0 +1,86 @@
+@charset "UTF-8"
+
+body {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+p {
+	text-align: justify;
+	text-indent: 50px;
+}
+
+/*  formatação de imagens com legenda */
+
+figure.foto-legenda {
+	position: relative;
+	border: 8px solid #ffffff;
+	box-shadow: 1px 1px 4px #000000;
+}
+
+figure.foto-legenda img {
+	width: 100%;
+	height: 100%;
+}
+
+figure.foto-legenda figcaption {
+	opacity: 0;
+	position: absolute;
+	top: 0px;
+	background-color: rgba(0,0,0,0.4);
+	color: #ffffff;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	transition: opacity 1s;
+}
+
+figure.foto-legenda figcaption:hover {
+	opacity: 1;
+}
+
+
+/* formatação do menu principal */
+
+nav#menu
+{
+	display: block;
+}
+
+nav#menu ul {
+	position: absolute;
+	list-style: none;
+	text-transform: uppercase;
+	top: -15px;
+	left: 200px;
+}
+
+nav#menu li {
+	display: inline-block;
+	background-color: #dddddd;
+	padding: 10px;
+	margin: 2px;
+	-webkit-transition: background-color 1s;
+	-moz-transition: background-color 1s;
+	-ms-transition: background-color 1s;
+	-o-transition: background-color 1s;
+	transition: background-color 1s;	
+}
+
+nav#menu li:hover {
+	background-color: #606060;
+}
+
+nav#menu h1 {
+	display: none;
+}
+
+nav#menu a {
+	color: #000000;
+	text-decoration: none;
+}
+
+nav#menu a:hover {
+	color: #ffffff;	
+}

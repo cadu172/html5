@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"widh",
+				"outline-width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"jus",
+				"justify"
+			],
+			[
+				"txt",
+				"text-align"
+			],
+			[
+				"cont",
+				"content\tAttr"
+			],
+			[
+				"con",
+				"content\tAttr"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"sect",
+				"section_main"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"heda",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"conte",
+				"content\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ca",
+				"calc_IMC"
+			],
+			[
+				"p_",
+				"p_Altura"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"valor",
+				"valorINI"
+			],
+			[
+				"valo",
+				"valorINI"
+			],
+			[
+				"VALO",
+				"valor2"
+			],
+			[
+				"VA",
+				"valor1"
+			],
+			[
+				"N",
+				"nomeCliente"
+			],
+			[
+				"idad",
+				"idadeCliente"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4039,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_css/estilo.css",
+			"settings":
+			{
+				"buffer_size": 1263,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ANDAMENTO_DO_PROJETO.txt",
+			"settings":
+			{
+				"buffer_size": 1711,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/inetpub/wwwroot/html5",
+		"/C/inetpub/wwwroot/html5/_css"
+	],
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/html5/index.html",
+		"/C/inetpub/wwwroot/html5/ANDAMENTO_DO_PROJETO.txt",
+		"/C/inetpub/wwwroot/html5/04_olamundo.html",
+		"/C/inetpub/wwwroot/html5_avancado/03_html5_metadados.html",
+		"/C/inetpub/wwwroot/phpserver/index.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_avancado/modulo_02_exercicio.html",
+		"/C/Users/carlos/Desktop/Exercicio/Exercicio1/Exerc1.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/modulo_09_mapeamento.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/exercicio5.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/modulo_07_ancoras_link.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/exercicio4.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/exercicio3.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/modulo_05_criando_listas.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/exercicio1.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/modulo_04_formatacao.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/modulo_03_primeiro_documento.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/modulo_02.html",
+		"/C/inetpub/wwwroot/ev_bradesco/html4_basico/modulo_01.html",
+		"/D/wwwroot/php_basico/get_post.php",
+		"/D/wwwroot/php_basico/request.php",
+		"/D/wwwroot/php_basico/validar_sessao.php",
+		"/D/wwwroot/php_basico/session.php",
+		"/D/wwwroot/php_basico/variaveis.php",
+		"/D/wwwroot/php_basico/funcoes.php",
+		"/D/wwwroot/php_basico/foreach.php",
+		"/D/wwwroot/php_basico/arrays.php",
+		"/D/wwwroot/php_basico/comando_for.php",
+		"/D/wwwroot/php_basico/comando_while.php",
+		"/D/wwwroot/php_basico/condicionais.php",
+		"/D/wwwroot/php_basico/operadores.php",
+		"/D/wwwroot/php_basico/aula1_variaveis.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_css/estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1244,
+								1244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ANDAMENTO_DO_PROJETO.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1710,
+								1710
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 383.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso_HTML5_OrientadoPorProjeto.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
