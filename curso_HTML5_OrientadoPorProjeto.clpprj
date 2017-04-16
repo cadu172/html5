@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\inetpub\wwwroot\html5\curso_HTML5_OrientadoPorProjeto.clpprj">
+	<settings><PM_URL><![CDATA[C:/Users/carlos/AppData/Roaming/ClPhpEd/Projects/]]></PM_URL><PM_HOME_URL><![CDATA[C:/Users/carlos/AppData/Roaming/ClPhpEd/Projects/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\inetpub\wwwroot\html5\index.html"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\estilo.css"/>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\inetpub\wwwroot\html5\_textos\specs-txt.html" crc="1368663788"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\multimidia-txt.html" crc="1368663572"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\index-txt.html" crc="1368662506"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\google-glass-txt.html" crc="1368664044"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\fotos-txt.html" crc="1368662900"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\fale-conosco-txt.html" crc="1368663318"/>
+		<file name="C:\inetpub\wwwroot\html5\_javascript\funcoes.js" crc="1368667846"/>
+		<file name="C:\inetpub\wwwroot\html5\_javascript\audio.js" crc="1368667840"/>
+		<file name="C:\inetpub\wwwroot\html5\_fonts\OFL.txt" crc="1349060400"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\specs.css" crc="1368667746"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\media.css" crc="1368667734"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\fotos.css" crc="1368667728"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\form.css" crc="1368667678"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\estilo.css" crc="1492322745"/>
+		<file name="C:\inetpub\wwwroot\html5\specs.html" crc="1368663788"/>
+		<file name="C:\inetpub\wwwroot\html5\multimidia.html" crc="1368663572"/>
+		<file name="C:\inetpub\wwwroot\html5\index.html" crc="1492322752"/>
+		<file name="C:\inetpub\wwwroot\html5\google-glass.html" crc="1368664044"/>
+		<file name="C:\inetpub\wwwroot\html5\fotos.html" crc="1368662900"/>
+		<file name="C:\inetpub\wwwroot\html5\fale-conosco.html" crc="1368663318"/>
+		<file name="C:\inetpub\wwwroot\html5\ANDAMENTO_DO_PROJETO.txt" crc="1492321025"/>
+	</filescache>
+</project>
