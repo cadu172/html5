@@ -54,6 +54,8 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 	}
 
 	Não está alterando a fonte e as fontes abaixo do header estão com cinza claro.
+	
+	***** SE USARMOS UM ARQUIVO DE FOLHA DE ESTILO NÃO FUNCIONA, MAS SE COLOCAR NO CORPO DO HTML FUNCIONA
 
 - AULA 18 - Semântica em HTML5	
 	Implementado a separação semantica da página com
@@ -61,3 +63,14 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 	<SECTION> -> seção é o conteúdo principal do site
 	<ASIDE> -> área lateral (esquerda ou direta) com o conteudo relacionado com a <SECTION>
 	<FOOTER> -> área de rodapé do site com diversas informações com os dados do site e links relacionados com o site ou links externos
+	
+- AULA 19 - 19 - Tabelas em HTML
+	APrendemos como implementar uma tabela em HTML
+
+- AULA 20 - Estilos CSS para Tabelas em HTML5
+	Aprendemos como fazer a formatação de tabelas usando o CSS
+	
+- AULA 21 - Interfaces em HTML5	
+	Nesta aula realizamos diversas formatações nos cabeçalhos usando CSS
+	
+- AULA 22 - Introdução ao Javascript	
