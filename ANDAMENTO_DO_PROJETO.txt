@@ -74,3 +74,9 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 	Nesta aula realizamos diversas formatações nos cabeçalhos usando CSS
 	
 - AULA 22 - Introdução ao Javascript	
+
+- AULA 25 - Integrando Javascript e HTML5
+	nesta aula aprendemos a integrar o javascript com o HTML, usando arquivos externos de javascript
+	
+- AULA 26 - Documentos Adicionais
+	*** PENDENTE ***
