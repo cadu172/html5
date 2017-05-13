@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project name="C:\inetpub\wwwroot\phpserver\html5\curso_HTML5_OrientadoPorProjeto.clpprj">
+<project name="C:\inetpub\wwwroot\html5\curso_HTML5_OrientadoPorProjeto.clpprj">
 	<settings><PM_URL><![CDATA[C:/Users/carlos/AppData/Roaming/ClPhpEd/Projects/]]></PM_URL><PM_HOME_URL><![CDATA[C:/Users/carlos/AppData/Roaming/ClPhpEd/Projects/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\fotos.html"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_css\fotos.css"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\estilo.css"/>
+		<file name="C:\inetpub\wwwroot\html5\multimidia.html"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\media.css"/>
+		<file name="C:\inetpub\wwwroot\html5\index.html"/>
+		<file name="C:\inetpub\wwwroot\html5\ANDAMENTO_DO_PROJETO.txt"/>
 	</lastopfiles>
 	<todoblock>
 	</todoblock>
 	<filescache>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_textos\specs-txt.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_textos\multimidia-txt.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_textos\index-txt.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_textos\google-glass-txt.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_textos\fotos-txt.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_textos\fale-conosco-txt.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_javascript\funcoes.js" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_javascript\audio.js" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_fonts\OFL.txt" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_css\specs.css" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_css\media.css" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_css\fotos.css" crc="1494267902"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_css\form.css" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\_css\estilo.css" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\specs.html" crc="1494266891"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\multimidia.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\index.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\google-glass.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\fotos.html" crc="1494267865"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\fale-conosco.html" crc="1494262810"/>
-		<file name="C:\inetpub\wwwroot\phpserver\html5\ANDAMENTO_DO_PROJETO.txt" crc="1494262810"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\specs-txt.html" crc="1368663788"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\multimidia-txt.html" crc="1368663572"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\index-txt.html" crc="1368662506"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\google-glass-txt.html" crc="1368664044"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\fotos-txt.html" crc="1368662900"/>
+		<file name="C:\inetpub\wwwroot\html5\_textos\fale-conosco-txt.html" crc="1368663318"/>
+		<file name="C:\inetpub\wwwroot\html5\_javascript\funcoes.js" crc="1492570713"/>
+		<file name="C:\inetpub\wwwroot\html5\_javascript\audio.js" crc="1368667840"/>
+		<file name="C:\inetpub\wwwroot\html5\_fonts\OFL.txt" crc="1349060400"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\specs.css" crc="1493175388"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\media.css" crc="1494684929"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\fotos.css" crc="1494678786"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\form.css" crc="1368667678"/>
+		<file name="C:\inetpub\wwwroot\html5\_css\estilo.css" crc="1492570182"/>
+		<file name="C:\inetpub\wwwroot\html5\specs.html" crc="1494675080"/>
+		<file name="C:\inetpub\wwwroot\html5\multimidia.html" crc="1494685449"/>
+		<file name="C:\inetpub\wwwroot\html5\index.html" crc="1494685165"/>
+		<file name="C:\inetpub\wwwroot\html5\google-glass.html" crc="1494675080"/>
+		<file name="C:\inetpub\wwwroot\html5\fotos.html" crc="1494675080"/>
+		<file name="C:\inetpub\wwwroot\html5\fale-conosco.html" crc="1492571279"/>
+		<file name="C:\inetpub\wwwroot\html5\ANDAMENTO_DO_PROJETO.txt" crc="1494685506"/>
 	</filescache>
 </project>
