@@ -80,3 +80,9 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 	
 - AULA 26 - Documentos Adicionais
 	*** PENDENTE ***
+	
+	
+	
+- AULA 32 - Curso de HTML5 – 32 – Áudio e Vídeo Avançados
+Nessa aula você terá técnicas avançadas para a configuração de áudio e vídeo em um site em HTML5.
+	
