@@ -29,39 +29,85 @@
 			</ul>
 		</nav>
 	</header>
+   
+	<section id="corpo-full">
+	<article id="noticia-principal">
+		<header id="cabecalho-artigo">			
+			<h3>Fale Conosco > Contato</h3>
+			<h1>Formulário de Contato</h1>
+			<h2>por Gustavo Guanabara</h2>
+			<h3 class="atualizado_em">Atualizado em 01/Maio/2013</h3>
+		</header>
+      
+      <form method="post" id="FrmContato" action="mailto:cadu172@gmail.com">
 
-Fale Conosco > Contato
-Formulário de Contato
-por Gustavo Guanabara
-Atualizado em 01/Maio/2013
+      <fieldset id="usuario"><legend>Identificação do Usuário</legend>
+      <p><label for="edtNome" >Nome:</label><input type="text" name="edtNome" id="edtNome" value="" size="40" maxlength="200" placeholder="Informe seu nome e sobrenome" /></p>
+      <p><label for="edtPasswd">Senha:</label><input type="password" name="edtPasswd" id="edtPasswd" value="" size="10" maxlength="10" placeholder="Senha 10 digitos" /></p>
+      <p><label for="edtEmail">E-mail:</label><input type="email" name="edtEmail" id="edtEmail" value="" size="40" maxlength="200" placeholder="Informe seu e-mail" /></p>
+      <fieldset id="sexo"><legend>Sexo</legend>
+      <input type="radio" name="RDGSexo" value="Masculino" id="RDGopt_Masculino" checked="checked" />
+      <label for="RDGopt_Masculino"> Masculino</label><br />
+      <input type="radio" name="RDGSexo" value="Feminino" id="RDGopt_Feminino" />
+      <label for="RDGopt_Feminino">Feminino</label>
+      </fieldset>
+      <p><label for="edtData">Data de Nascimento:</label><input type="date" name="edtData" id="edtData" /></p>
+      </fieldset>
+      
+      <fieldset id="endereco"><legend>Endereço do Usuário</legend>
+      <p><label for="edtLogradouro">Logradouro:</label><input type="text" name="edtLogradouro" id="edtLogradouro" value="" size="40" maxlength="200" placeholder="Informe seu endereço" /></p>
+      <p><label for="edtNumero">Número:</label><input type="number" name="edtNumero" id="edtNumero" value="" min="1" max="999999" step="1" value="0" /></p>
+      <p>
+         <label for="edtUF">Estado:</label>
+         <select name="edtUF" id="edtUF">
+            <optgroup label="Região SUDESTE">
+               <option value="RJ">Rio de Janeiro</option>
+               <option value="SP" selected="selected">São Paulo</option>
+               <option value="ES">Espirito Santo</option>
+            </optgroup>
+            <optgroup label="Região NORDESTE">
+               <option value="BA">Bahia</option>
+               <option value="CE">Ceará</option>
+               <option value="RN">Rio Grande do Norte</option>
+            </optgroup>
+         </select>
+         </p>
+         <p><label for="edtCidade">Cidade:</label>
+         <input type="text" name="edtCidade" id="edtCidade" value="" size="40" maxlength="200" placeholder="Sua Cidade" list="dtlCidade" />
+         <datalist id="dtlCidade">
+            <option value="Carapicuiba"></option>
+            <option value="Cotia"></option>
+            <option value="Osasco"></option>
+         </datalist>
+         </p>
+      </fieldset>
 
-Identificação do Usuário
-    Nome:
-    Senha:
-    E-mail:
-    Sexo:
-        - Masculino
-        - Feminino
-    Data de Nascimento:
+      <fieldset id="mensagem"><legend>Mensagem do Usuário</legend>
+      <p>
+      <label for="rngGrau">Grau de Urgência:</label>
+      Min<input type="range" min="1" max="10" step="2" name="rngGrau" id="rngGrau"/>Max</p>
+      <p>
+      <label for="edtMensagem">Mensagem:</label>
+      <textarea name="edtMensagem" id="edtMensagem" cols="45" rows="5" placeholder="Digite aqui sua mensagem"></textarea></p>
+      </fieldset>
 
-Endereço do Usuário
-    Logradouro:
-    Número:
-    Estado:
-    Cidade:
+      <fieldset id="solicitacao"><legend>Quero um Google Glass</legend>
+      <p>
+      <input type="checkbox" name="CBoxGostaria" id="CBoxGostaria">
+      <label for="CBoxGostaria">Gostaria de adquirir um Google Glass quando disponível</label></p>
+      <p><label for="ClrCor">Cor:</label>
+      <input type="color" name="ClrCor" id="ClrCor"/></p>
+      <p><label for="edtQtd">Quantidade:</label>
+      <input type="number" name="edtQtd" id="edtQtd" value="0" size="3" max="5" min="1"/></p>
+      <p><label for="edtPrecoTOT">Preço Total: R$</label></p>
+      </fieldset>
+      
+      <button type="submit">ENVIAR</button>
 
-Mensagem do Usuário
-    Grau de Urgência:
-    Mensagem:
+      </form>
 
-Quero um Google Glass
-    Gostaria de adquirir um Google Glass quando disponível
-    Cor:
-    Quantidade:
-    Preço Total: R$
-
-
-[BOTÃO ENVIAR]
+   </article>
+   </section>
 
 	<footer id="rodape">
 	<p>Copyright 2013 - &copy; by Gustavo Guanabara<br /><a href="http://www.facebook.com/cursosemvideo" target="_BLANK">Facebook</a> | <a href="http://www.twitter.com/cursosemvideo">Twitter</a></p>
